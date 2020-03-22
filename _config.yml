@@ -15,7 +15,7 @@
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko-KR"
+locale: "KR"
 title: "Woogie & Dev"
 title_separator: "-"
 subtitle: "우기의 코딩" # site tagline that appears below site title in masthead
@@ -251,6 +251,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+post_archive:
+  type: liquid
+  path: /posts/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -274,7 +277,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single

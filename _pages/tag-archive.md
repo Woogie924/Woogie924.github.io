@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Posts :"
 permalink: /tags/
 layout: tags
 author_profile: true
