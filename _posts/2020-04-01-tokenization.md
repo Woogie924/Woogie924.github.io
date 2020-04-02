@@ -11,7 +11,7 @@ header:
   teaser: https://github.com/Woogie924/Woogie924.github.io/blob/master/assets/images/myLogo.png?raw=true
 ---
 
-## 1) 토큰화 (Tokenization)
+# 토큰화 (Tokenization)
 
 - 토큰화가 필요한 경우
 
@@ -61,3 +61,7 @@ from konlpy.tag import Okt
 okt=Okt()
 print(okt.pos("열심히 코딩한 당신, 연휴에는 여행을 가봐요"))
 ```
+
+- `morphs` : 형태소 추출
+- `pos` : 품사 태깅(Part-of-speech tagging)
+- `nouns` : 명사 추출
