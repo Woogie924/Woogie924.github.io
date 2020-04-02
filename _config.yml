@@ -20,7 +20,7 @@ title: "Woogie & Dev"
 title_separator: "-"
 subtitle: "우기의 코딩" # site tagline that appears below site title in masthead
 name: "SungUk Hong"
-description: "An amazing website."
+description: "하루하루 공부하며, 기록하다"
 url: "https://Woogie924.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "Woogie924/Woogie924.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
