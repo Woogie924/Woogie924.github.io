@@ -58,3 +58,7 @@ print(tokenizer.word_counts)
 ```python
 print(tokenizer.texts_to_sequences(sentences))
 ```
+
+## ❤참고
+
+- [위키](https://wikidocs.net/31766)

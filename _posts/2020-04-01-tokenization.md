@@ -65,3 +65,8 @@ print(okt.pos("열심히 코딩한 당신, 연휴에는 여행을 가봐요"))
 - `morphs` : 형태소 추출
 - `pos` : 품사 태깅(Part-of-speech tagging)
 - `nouns` : 명사 추출
+
+## ❤참고
+
+- [subinium](https://subinium.github.io/Keras-6-1/)
+- [위키](https://wikidocs.net/)
